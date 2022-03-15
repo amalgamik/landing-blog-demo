@@ -1,0 +1,27 @@
+title:              Лендінґ
+email:              devich@gmail.com
+description:        Демо-сайт — лендінґ + блог/новини/оголошення
+author:             Devich & Start Bootstrap
+baseurl:            "/landing-blog-demo"
+url:                "https://devich.github.io"
+
+# Social Profiles
+twitter_username:   
+github_username:    devich/landing-blog-demo
+facebook_username:  
+instagram_username:  
+linkedin_username:
+telegram_username:  dev1ch
+viber_username:     380958548428 # повний номер без +
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
