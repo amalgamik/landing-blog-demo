@@ -2,8 +2,8 @@ title:              Лендінґ
 email:              devich@gmail.com
 description:        Демо-сайт — лендінґ + блог/новини/оголошення
 author:             Devich & Start Bootstrap
-baseurl:            "/landing-blog-demo"
-url:                "https://amalgamik.github.io"
+baseurl:            ""
+url:                "https://demo.itshop.in.ua"
 
 # Social Profiles
 twitter_username:   
